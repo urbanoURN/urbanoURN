@@ -12,9 +12,9 @@
 <!-- Subtítulo de Tecnologías y Conocimientos -->
 
 
-<h2 align="center">🚀 Tecnologías y Conocimientos</h2>
+<h2 align="center" >🚀 Tecnologías y Conocimientos</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>Lenguajes:</h3>
