@@ -14,43 +14,42 @@
 
 <h2 align="center">🚀 Tecnologías y Conocimientos</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Lenguajes:</h3>
+      <img src="https://skillicons.dev/icons?i=py,js,php,swift,kotlin" height="30" /><br/>
+      <h3>Backend:</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,adonis,ktor,postman" height="30" /><br/>
+      <h3>DevOps & Cloud:</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab,heroku,vercel,netlify,cloudflare" height="30" /><br/>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Frontend:</h3>
+      <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="30" /><br/>
+      <h3>CSS & UI:</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,emotion,styledcomponents,windicss,figma,xd" height="30" /><br/>
+      <h3>Móvil:</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" height="30" /><br/>
+      <h3>Escritorio:</h3>
+      <img src="https://skillicons.dev/icons?i=electron,tauri,qt,gtk" height="30" /><br/>
+    </td>
+  </tr>
 
-  <!-- Columna izquierda -->
-  <div>
-    <h3>Lenguajes:</h3>
-    <img src="https://skillicons.dev/icons?i=py,js,php,swift,kotlin" height="30" />
-    <h3>Backend:</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,adonis,ktor,postman" height="30" />
-    <h3>DevOps & Cloud:</h3>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab,heroku,vercel,netlify,cloudflare" height="30" />
-  </div>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Bases de Datos:</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" /><br/>
+      <h3>Herramientas:</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30" /><br/>
+      <h3>Sistemas Operativos:</h3>
+      <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Columna derecha -->
-  <div>
-    <h3>Frontend:</h3>
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="30" />
-    <h3>CSS & UI:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,emotion,styledcomponents,windicss,figma,xd" height="30" />
-    <h3>Mobile:</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" height="30" />
-    <h3>Desktop:</h3>
-    <img src="https://skillicons.dev/icons?i=electron,tauri,qt,gtk" height="30" />
-  </div>
-
-  <!-- Columna completa debajo -->
-  <div style="width: 100%; text-align: center; margin-top: 20px;">
-    <h3>Bases de Datos:</h3>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" style="margin-left: 4px;" />
-    <h3>Herramientas:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30" style="margin-left: 4px;" />
-    <h3>Sistemas Operativos:</h3>
-    <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
-  </div>
-
-</div>
 
 
 
