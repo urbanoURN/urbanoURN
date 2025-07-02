@@ -10,89 +10,52 @@
 </p>
 
 <!-- Subtítulo de Tecnologías y Conocimientos -->
+
+
 <h2 align="center">🚀 Tecnologías y Conocimientos</h2>
 
-<!-- Lenguajes de Programación -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-top: 10px;">
-  <h3 style="margin: 0;">Lenguajes:</h3>
-  <a href="https://skillicons.dev">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+
+  <!-- Columna izquierda -->
+  <div>
+    <h3>Lenguajes:</h3>
     <img src="https://skillicons.dev/icons?i=py,js,php,swift,kotlin" height="30" />
-  </a>
-</div>
-
-<!-- Frameworks Web Frontend -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Frontend:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="30" />
-  </a>
-</div>
-
-<!-- Frameworks Web Backend -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Backend:</h3>
-  <a href="https://skillicons.dev">
+    <h3>Backend:</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,adonis,ktor,postman" height="30" />
-  </a>
-</div>
-
-<!-- Bases de Datos -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Bases de Datos:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="30" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30"/>
-</div>
-
-<!-- DevOps y Cloud -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Cloud & DevOps:</h3>
-  <a href="https://skillicons.dev">
+    <h3>DevOps & Cloud:</h3>
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab,heroku,vercel,netlify,cloudflare" height="30" />
-  </a>
-</div>
+  </div>
 
-<!-- Herramientas -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Herramientas:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
-  </a>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30"/>
-</div>
-
-<!-- CSS & Diseño -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">CSS & UI:</h3>
-  <a href="https://skillicons.dev">
+  <!-- Columna derecha -->
+  <div>
+    <h3>Frontend:</h3>
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="30" />
+    <h3>CSS & UI:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,emotion,styledcomponents,windicss,figma,xd" height="30" />
-  </a>
-</div>
-
-<!-- Mobile -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Móvil:</h3>
-  <a href="https://skillicons.dev">
+    <h3>Mobile:</h3>
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" height="30" />
-  </a>
-</div>
-
-<!-- Desktop -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Escritorio:</h3>
-  <a href="https://skillicons.dev">
+    <h3>Desktop:</h3>
     <img src="https://skillicons.dev/icons?i=electron,tauri,qt,gtk" height="30" />
-  </a>
+  </div>
+
+  <!-- Columna completa debajo -->
+  <div style="width: 100%; text-align: center; margin-top: 20px;">
+    <h3>Bases de Datos:</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" style="margin-left: 4px;" />
+    <h3>Herramientas:</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30" style="margin-left: 4px;" />
+    <h3>Sistemas Operativos:</h3>
+    <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
+  </div>
+
 </div>
 
-<!-- Sistemas Operativos -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h3 style="margin: 0;">Sistemas Operativos:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
-  </a>
-</div>
+
+
+
+
 
 <!-- Subtítulo de Proyectos -->
 <h2 align="center">📂 Proyectos</h2>
