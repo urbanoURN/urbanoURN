@@ -256,6 +256,7 @@
   <table cellpadding="10">
     <tr>
       <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=urbanoURN&label=Visitantes&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Portafolio-Siempre%20Actualizado-success?style=for-the-badge&logo=rocket&logoColor=white" alt="Actualizado" />
