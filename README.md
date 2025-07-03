@@ -14,7 +14,7 @@
 
 <h2 align="center" >🚀 Tecnologías y Conocimientos</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>Lenguajes:</h3>
