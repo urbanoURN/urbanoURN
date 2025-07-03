@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hola!+Soy+Edinson+Urbano+%F0%9F%91%8B;Desarrollador+Full+Stack;Analista+de+Software;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hola!+Soy+Edinson+Urbano+%F0%9F%91%8B;Desarrollador+Full+Stack+y+Movil;Analista+de+Datos;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" alt="Typing SVG" />
 </div>
 
 <!-- Título principal -->
