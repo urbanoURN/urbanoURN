@@ -245,6 +245,7 @@
       <p>
         📧 <strong>Email:</strong> edinsondevurn@gmail.com<br>
         💼 <strong>LinkedIn:</strong> edinsondevurn<br>
+        📸 <strong>Instagram:</strong> edinson_urbano_<br>
       </p>
     </td>
   </tr>
