@@ -14,7 +14,7 @@
 
 <h2 align="center" >🚀 Tecnologías y Conocimientos</h2>
 
-<table valign="top" width="100%">
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>Lenguajes:</h3>
@@ -43,7 +43,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" /><br/>
       <h3>Herramientas:</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30" /><br/>
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" width="22" height="22" style="margin-left: 4px;" /><br/>
       <h3>Sistemas Operativos:</h3>
       <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
     </td>
