@@ -10,59 +10,87 @@
 </p>
 
 <!-- Subtítulo de Tecnologías y Conocimientos -->
+<h2 align="center">🚀 Tecnologías y Conocimientos</h2>
 
-
-<h2 align="center" >🚀 Tecnologías y Conocimientos</h2>
-
-<table width="100%">
+<table width="100%" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%">
-      <h3>Lenguajes:</h3>
-      <img src="https://skillicons.dev/icons?i=py,js,php,swift,kotlin" height="30" /><br/>
-      <h3>Backend:</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,adonis,ktor,postman" height="30" /><br/>
-      <h3>DevOps & Cloud:</h3>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab,heroku,vercel,netlify,cloudflare" height="30" /><br/>
+    <td valign="top" width="50%" style="padding: 15px; border-right: 1px solid #e1e4e8;">
+      <h3 align="center" style="margin-top: 0;">💻 Lenguajes</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py,js,php,swift,kotlin" height="35" />
+      </p>
+      <h3 align="center">⚙️ Backend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask" height="35" /><br/>
+        <img src="https://skillicons.dev/icons?i=django,laravel,adonis,ktor,postman" height="35" />
+      </p>
+      <h3 align="center">☁️ DevOps & Cloud</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins" height="35" /><br/>
+        <img src="https://skillicons.dev/icons?i=githubactions,gitlab,heroku,vercel,netlify" height="35" /><br/>
+        <img src="https://skillicons.dev/icons?i=cloudflare" height="35" />
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <h3>Frontend:</h3>
-      <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="30" /><br/>
-      <h3>CSS & UI:</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,emotion,styledcomponents,windicss,figma,xd" height="30" /><br/>
-      <h3>Móvil:</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" height="30" /><br/>
-      <h3>Escritorio:</h3>
-      <img src="https://skillicons.dev/icons?i=electron,tauri,qt,gtk" height="30" /><br/>
+    <td valign="top" width="50%" style="padding: 15px;">
+      <h3 align="center" style="margin-top: 0;">🎨 Frontend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs" height="35" />
+      </p>
+      <h3 align="center">🎯 CSS & UI</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui" height="35" /><br/>
+        <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,windicss,figma,xd" height="35" />
+      </p>
+      <h3 align="center">📱 Móvil</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" height="35" />
+      </p>
+      <h3 align="center">🖥️ Escritorio</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=electron,tauri,qt,gtk" height="35" />
+      </p>
     </td>
   </tr>
-
+  
   <tr>
-    <td colspan="2" align="center">
-      <h3>Bases de Datos:</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="30" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" /><br/>
-      <h3>Herramientas:</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="30" />
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="30" /><br/>
-      <h3>Sistemas Operativos:</h3>
-      <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="30" />
+    <td colspan="2" align="center" style="padding: 20px; border-top: 1px solid #e1e4e8;">
+      <h3 style="margin-bottom: 15px;">🗄️ Bases de Datos</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb" height="35" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="35" />
+      </p>
+      <h3 style="margin: 20px 0 15px 0;">🛠️ Herramientas</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="35" />
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" height="35" />
+      </p>
+      <h3 style="margin: 20px 0 15px 0;">💿 Sistemas Operativos</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=linux,windows,kali" height="35" />
+      </p>
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-
 <!-- Subtítulo de Proyectos -->
 <h2 align="center">📂 Proyectos</h2>
-<ul>
-  <li><strong>Gestor de Inventario Web</strong> – Sistema para controlar insumos, herramientas y equipos.</li>
-  <li><strong>Dashboard de Consumo</strong> – Visualización de datos de consumo de ACPM y gasolina.</li>
-  <li><strong>Sistema de Préstamos</strong> – Control de préstamos de tractores y maquinaria agrícola.</li>
-</ul>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;">
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="margin-bottom: 10px;">
+          <strong>🏭 Gestor de Inventario Web</strong> – Sistema para controlar insumos, herramientas y equipos.
+        </li>
+        <li style="margin-bottom: 10px;">
+          <strong>📊 Dashboard de Consumo</strong> – Visualización de datos de consumo de ACPM y gasolina.
+        </li>
+        <li style="margin-bottom: 10px;">
+          <strong>🚜 Sistema de Préstamos</strong> – Control de préstamos de tractores y maquinaria agrícola.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Subtítulo de Contacto -->
 <h2 align="center">📬 Contáctame</h2>
