@@ -16,8 +16,8 @@
 <!-- Badges profesionales -->
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Disponible%20para%20trabajar-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Estado" />
-  <img src="https://img.shields.io/badge/Experiencia-2+%20años-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Experiencia" />
-  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/Experiencia-1+%20años-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Experiencia" />
+  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%26%20Mobile-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Enfoque" />
 </p>
 
 <!-- Sobre mí expandido -->
@@ -68,17 +68,17 @@
 <!-- Estadísticas de GitHub -->
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edinsondevurn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinsondevurn&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urbanoURN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbanoURN&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinsondevurn&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbanoURN&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
 </div>
 
 <!-- Tecnologías y Conocimientos -->
 <h2 align="center">🚀 Tecnologías y Conocimientos</h2>
-<table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
+<table align="center" width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td valign="top" width="50%" style="padding: 20px; border-right: 1px solid #30363d;">
       <h3 align="center">💻 Lenguajes de Programación</h3>
@@ -173,7 +173,7 @@
 
 <!-- Habilidades adicionales -->
 <h2 align="center">🌟 Habilidades Complementarias</h2>
-<table width="100%" cellpadding="15">
+<table  align="center" width="100%" cellpadding="15">
   <tr>
     <td width="33%" align="center">
       <h3>🌐 Idiomas</h3>
@@ -208,13 +208,13 @@
 <!-- Actividad de GitHub -->
 <h2 align="center">📈 Actividad de GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinsondevurn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urbanoURN&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <!-- Trofeos de GitHub -->
 <h2 align="center">🏆 Logros de GitHub</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edinsondevurn&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=urbanoURN&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
 </div>
 
 <!-- Contacto mejorado -->
@@ -229,12 +229,12 @@
   <a href="https://www.instagram.com/edinson_urbano_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/edinsondevurn" target="_blank">
+<!--   <a href="https://github.com/edinsondevurn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="tel:+573186049682" target="_blank">
+  </a> -->
+<!--   <a href="tel:+573186049682" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  </a> -->
 </p>
 
 <!-- Información de contacto -->
@@ -244,20 +244,38 @@
       <h3>📞 Información de Contacto</h3>
       <p>
         📧 <strong>Email:</strong> edinsondevurn@gmail.com<br>
-        📱 <strong>Teléfono:</strong> +57 318 604 9682<br>
-        🌐 <strong>GitHub:</strong> @edinsondevurn<br>
         💼 <strong>LinkedIn:</strong> edinsondevurn<br>
-        📍 <strong>Ubicación:</strong> Medellín, Colombia
       </p>
     </td>
   </tr>
 </table>
 
 <!-- Contador de visitas -->
-<h2 align="center">👀 Visitantes del Perfil</h2>
+<h2 align="center">🌟 Gracias por Visitar mi Portafolio</h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=edinsondevurn&label=Visitantes&color=2&icon=3&pretty=true" alt="Contador de visitas"/>
+  <table cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=urbanoURN&label=Visitantes&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Portafolio-Siempre%20Actualizado-success?style=for-the-badge&logo=rocket&logoColor=white" alt="Actualizado" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Estado-Disponible%20para%20Colaborar-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponible" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p>
+    <em>¡Cada visita es una oportunidad de conexión! 🤝</em><br>
+    <em>Si mi trabajo te interesa, no dudes en contactarme 📧</em>
+  </p>
 </div>
+
+
+
+
 
 <!-- Footer -->
 <div align="center">
