@@ -38,7 +38,7 @@
         <li>📱 Aplicaciones móviles nativas e híbridas</li>
         <li>☁️ Despliegue en AWS y Azure</li>
         <li>🗄️ Gestión de bases de datos SQL y NoSQL</li>
-<!--         <li>🔐 Implementación de seguridad y firmas digitales</li> -->
+        <li>🔐 Implementación de seguridad y firmas digitales</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -52,7 +52,7 @@
           <li>🏭 Creación de plataforma interna para control de inventario</li>
           <li>✍️ Implementación de sistema de firmas digitales</li>
           <li>🤖 Automatización de procesos internos</li>
-          <li>🔒 Mantenimiento y seguridad del software corporativo</li>
+<!--           <li>🔒 Mantenimiento y seguridad del software corporativo</li> -->
         </ul>
       </div>
       <h3>🎓 Formación</h3>
