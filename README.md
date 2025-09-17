@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Estado-Disponible%20para%20trabajar-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Estado" />
   <img src="https://img.shields.io/badge/Experiencia-1+%20años-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Experiencia" />
   <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%26%20Mobile-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Enfoque" />
-  <a href="[https://bejewelled-sorbet-258974.netlify.app/](https://portafoliourn.netlify.app/)" target="_blank">
+  <a href="https://portafoliourn.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visitar-Portafolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio">
   </a>
 </p>
